@@ -1,6 +1,6 @@
 cask "findle" do
   version "0.1.2"
-  sha256 "1265eeafa2a1bc4d47ffaf14675790eb6fb56353e03580a5d45a3b68cb688299"
+  sha256 "59a87aa09565f1e050ffbd2ce780f5d52f95cc21010af13e9f4e71604694e3dc"
 
   url "https://github.com/alexmodrono/Findle/releases/download/v#{version}/Findle-#{version}.zip"
   name "Findle"
